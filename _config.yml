@@ -22,8 +22,8 @@ subtitle: ""
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/" # the subpath of your site
-url: "localhost:4000" # the base hostname & protocol for your site
-baseurl: "/jadlao"
+url: "http://jadlaocopy.github.io" # the base hostname & protocol for your site
+# baseurl: "/jadlao"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
