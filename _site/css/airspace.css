@@ -74,7 +74,7 @@ header .navbar {
   border: 0px;
 }
 header .navbar-brand {
-  padding-top: 5px;
+  padding-top: 20px;
 }
 header .navbar-default {
   background: none;
@@ -802,7 +802,7 @@ footer .footer-manu ul li {
 }
 footer .footer-manu ul li a {
   display: inline-block;
-  color: #494949;
+  color: #333333;
 }
 footer .footer-manu ul li a:hover {
   color: #000;
