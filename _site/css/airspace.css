@@ -166,6 +166,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #service {
   text-align: center;
   padding: 90px 0;
+  background-color: #F5F5F5;
 }
 #service .service-item {
   padding-bottom: 30px;
@@ -232,7 +233,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/feature-bg.jpg");
+  background: url("../img/fture-bg.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -258,9 +259,10 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 600;
   margin-bottom: 30px;
 }
-#feature p {
+#feature p h4 {
   color: #333333;
   margin-bottom: 20px;
+  line-height: 27px;
 }
 #feature .btn-view-works {
   background: #655E7A;
@@ -517,7 +519,7 @@ font header .navbar-default .navbar-nav li a:hover {
   -webkit-transition: .3s all;
   -o-transition: .3s all;
   transition: .3s all;
-  text-align: center;
+  text-align: left;
 }
 #portfolio-work .block .portfolio-contant .position-center {
   position: absolute;
