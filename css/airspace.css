@@ -834,3 +834,17 @@ footer .footer-manu ul li a:hover {
   font-size: 14px;
   line-height: 1.8;
 }
+
+/* Scroll to top arrow */
+#scrollUp {
+  bottom: 20px;
+  right: 20px;
+  width: 38px; /* Width of image */
+  height: 38px; /* Height of image */
+  background: url(/img/top.png) no-repeat;
+  opacity: 0.8;
+}
+
+#scrollUp:hover {
+    opacity: 1.0;
+}
