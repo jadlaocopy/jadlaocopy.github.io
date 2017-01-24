@@ -84,7 +84,7 @@ header .navbar-default .navbar-nav {
   padding-top: 10px;
 }
 header .navbar-default .navbar-nav li a {
-  color: #333333;
+  color: #595959;
   padding: 10px 26px;
   font-size: 15px;
 }
@@ -362,8 +362,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #global-header {
   background: url("../img/slider-bg.jpg") no-repeat;
   background-size: cover;
-  padding-top: 150px;
-  padding-bottom: 107px;
+  padding-top: 115px;
+  padding-bottom: 100px;
   position: relative;
   background-attachment: fixed;
 }
